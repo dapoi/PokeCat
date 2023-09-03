@@ -92,4 +92,7 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifeCycleScopeVersion"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:$lifeCycleScopeVersion"
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifeCycleScopeVersion"
+
+    // Splash screen
+    implementation 'androidx.core:core-splashscreen:1.0.1'
 }
